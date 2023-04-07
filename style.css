@@ -1,0 +1,17 @@
+.parent {
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+}
+
+.child {
+border: 5px solid black;
+}
+
+button {
+    background-color: chocolate;
+    height: 30px;
+    border: none;
+    border-radius: 9px;
+    cursor: pointer;
+}
